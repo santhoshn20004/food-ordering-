@@ -1,7 +1,7 @@
 <?php
 if($_POST)
 {
-	$to_Email   	= "admin@themes.ads"; //Replace with recipient email address
+	$to_Email   	= "officialsanthosh.n2004@gmail.com"; //Replace with recipient email address
 	$subject        = 'Bistro - New Contact Inquiry'; //Subject line for emails
 	
 	
