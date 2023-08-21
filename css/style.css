@@ -891,6 +891,10 @@ ul.tags li a, ul.social_icon li a,
 }
 .feature_wrap  p{ font-size:14px;}
 
+.checked {
+  color: orange;
+}
+
 
 /* =============== bistro backgroud Section =========== */
 .bg_bistro .white_content{ margin:25px 0; }
